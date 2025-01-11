@@ -13,6 +13,7 @@ GENERAL INFORMATION
 SHARING/ACCESS INFORMATION
 
 1. Was data derived from another source? Yes
+   
 	A) Source of experimental data:
 		Name of publication: Autoregulation of the Master Regulator Spo0A Controls Cell-fate Decisions in Bacillus subtilis
 		Corresponding author: Masaya Fujita
