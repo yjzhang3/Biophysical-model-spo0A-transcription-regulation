@@ -112,6 +112,7 @@ FIGURE GENERATION
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 TABLE GENERATION 
+
 	Figure 6D (table):
 		Under directory 'PvPs_kinetic', run 'dissect_0AP_RNAP_fold_increase.m' (see generated numerical arrays named 'pc_const_holoenzyme_xxx.m', xxx = 'v' or 's' or 'vs')
 	Table S2:
