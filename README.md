@@ -29,15 +29,21 @@ DATA & FILE OVERVIEW
 1. Directory List: 
 
 	'FigureX': Related to generation of Figure X in the main manuscript. X = 2:3,7
+
 	'PvPs_kinetic': Related to formulation of and promoter activity data fitting to the model with kinetic control on both promoters
+
 	'PvPs_thermo': Related to formulation of and promoter activity data fitting to the model with thermodynamic control on both promoters
+
 	'Pvkinetic_Psthermo': Related to formulation of and promoter activity data fitting to the model with kinetic control on Pv and thermodynamic control on Ps
+
 	'Pvthermo_Pskinetic': Related to formulation of and promoter activity data fitting to the model with thermodynamic control on Pv and kinetic control on Ps
+
 	'EMSA_single_site_only': Related to formulation and EMSA data fitting to the statistical thermodynamical model
+
 	'sigHsigA_analysis': Related to fitting PcitG and Ps strain 'none' promoter activity together, and fitting Physpank and Pv strain 'none' promoter activity together
 	'biophysical_model_result_summary': Related to analysis of all four biophysical model results
 
-2. Are there multiple versions of the dataset? No
+3. Are there multiple versions of the dataset? No
 
 	All experimental datasets have been saved as '.mat' (MATLAB Data) files, including:
 
