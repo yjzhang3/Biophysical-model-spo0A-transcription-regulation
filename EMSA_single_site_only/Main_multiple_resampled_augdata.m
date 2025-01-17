@@ -59,7 +59,7 @@ er.Color = [0 0 0];
 er.LineWidth = 3;
 
 ylabel('0A box')
-xlabel({'K_{half} (μM)'})
+xlabel({'K_{h} (μM)'})
 set(gca,'FontSize',28)
 xlim([0 3.3])
 saveas(gcf,sprintf('aug_EMSA_n%1d_singlesitereportKhalf.fig',n))
