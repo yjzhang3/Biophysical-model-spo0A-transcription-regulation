@@ -47,7 +47,7 @@ set(hl,'LineWidth',2.87);
 
 % title('PvPs together, Single Mutation')
 xlabel('Time (h)')
-ylabel('v^{effective} (a.u.)')
+ylabel('v^{eff} (a.u.)')
 xlim([2 9])
 ylim([0 1400])
 set(gca,'FontSize',22)
@@ -68,7 +68,7 @@ plot_all_sim(fliplr(sim_all(:,[8,1,5:7])),flipud(rgbColor([8,1,5:7],:)))
 hl = findobj(hobj,'type','line');
 set(hl,'LineWidth',2.87);
 xlabel('Time (h)')
-ylabel('v^{effective} (a.u.)')
+ylabel('v^{eff} (a.u.)')
 xlim([2 9])
 ylim([0 1400])
 set(gca,'FontSize',22)
@@ -95,7 +95,7 @@ plot_all_sim(fliplr(sim_data_s(:,[8,1:4])),flipud(rgbColor([8,1:4],:)))
 hl = findobj(hobj,'type','line');
 set(hl,'LineWidth',2.87);
 xlabel('Time (h)')
-ylabel('v^{effective} (a.u.)')
+ylabel('v^{eff} (a.u.)')
 ylim([0 1400])
 xlim([2 9])
 set(gca,'FontSize',22)
@@ -117,7 +117,7 @@ plot_all_sim(fliplr(sim_data_s(:,[8,1,5:7])),flipud(rgbColor([8,1,5:7],:)))
 hl = findobj(hobj,'type','line');
 set(hl,'LineWidth',2.87);
 xlabel('Time (h)')
-ylabel('v^{effective} (a.u.)')
+ylabel('v^{eff} (a.u.)')
 ylim([0 1400])
 xlim([2 9])
 set(gca,'FontSize',22)
@@ -163,7 +163,7 @@ hl = findobj(hobj,'type','line');
 set(hl,'LineWidth',2.87);
 
 xlabel('Time (h)')
-ylabel('v^{effective} (a.u.)')
+ylabel('v^{eff} (a.u.)')
 ylim([0 1400])
 xlim([2 9])
 set(gca,'FontSize',22)
@@ -183,7 +183,7 @@ plot_all_sim(fliplr(sim_data_v(:,[8,1,5:7])),flipud(rgbColor([8,1,5:7],:)))
 hl = findobj(hobj,'type','line');
 set(hl,'LineWidth',2.87);
 xlabel('Time (h)')
-ylabel('v^{effective} (a.u.)')
+ylabel('v^{eff} (a.u.)')
 xlim([2 9])
 ylim([0 1400])
 set(gca,'FontSize',22)
