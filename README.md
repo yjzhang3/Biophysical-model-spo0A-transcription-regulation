@@ -9,6 +9,8 @@ GENERAL INFORMATION
 		Institution: Rice University 
 		Email: igoshin@rice.edu
 
+	B) DOI: 10.5281/zenodo.14991459
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 SHARING/ACCESS INFORMATION
 
